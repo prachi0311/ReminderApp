@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReminderApp</string>
+    <string name="title_activity_starting">StartingActivity</string>
+    <string name="title_activity_editactivity">editactivity</string>
+</resources>
